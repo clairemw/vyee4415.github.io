@@ -1,43 +1,44 @@
-h1{
-  text-align: center;
+.index{
+  float:left;
   text-shadow: 4px 4px gray;
   border-bottom: 3px;
   border-bottom-style: solid;
+  margin-left: 100px;
   padding-bottom: 7px;
   font-size: 30px;
+}
+.right{
+  position: relative;right:0px;
+}
+.border-bottom{
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  padding-bottom: 75px;
+}
+.index1{
+  position: relative;left: 30px;
+  float: left;
+}
+#hi{
+  font-weight: bold;
+  font-size: 30px;
+}
+.subs{
+  text-align: center;
+  font-weight: 300;
+}
+#space{
+  border-style: double;
+  float: left;
+  border: 10px;
+  width: 230px!important;
 }
 p{
   text-align: center;
   font-size: 20px;
   letter-spacing: 3px;
 }
-iframe {
-  align-self: center;
-}
 body{
-  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/2e/c6/b5/2ec6b5e14fe0cba0cb0aa5d2caeeccc6--interesting-wallpapers-pink-sky.jpg);
-}
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 200px;
-    background-color: #f1f1f1;
-}
-
-li a {
-    display: block;
-    color: #000;
-    padding: 8px 16px;
-    text-decoration: none;
-}
-
-/* Change the link color on hover */
-li a:hover {
-    background-color: #555;
-    color: white;
-}
-img {
-  width:1000px;
-  align-self: center;
+  font-size: 30px;
+  background-color: #B8C5D6!important;
 }
