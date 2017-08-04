@@ -1,8 +1,26 @@
+#first{
+  /* The image used */
+  background-image: url("cat.jpg");
+}
+.center{
+    display: block;
+    margin: 0 auto;
+}
+.front{
+    background-color: #ffdab9 !important;
+    width:900px;
+    display: block;
+    margin: 0 auto;
+}
 .index{
   text-shadow: 4px 4px gray;
   padding-bottom: 7px;
   font-size: 30px;
   text-align: center;
+  color:white;
+}
+.white{
+  color:white;
 }
 .woo{
   width:1000px;
@@ -66,7 +84,7 @@ body{
     border-radius: 50%;
     border-style: solid;
     border-color: white;
-    width: 1150px;
+    width: 500px;
     height: 600px;
     margin:auto;
     background-color: white;
