@@ -9,6 +9,7 @@
 .front{
     background-color: #ffdab9 !important;
     width:900px;
+    padding: 20px;
     display: block;
     margin: 0 auto;
 }
@@ -39,8 +40,9 @@
   border-bottom-style: solid;
   padding-bottom: 75px;
 }
+
 .index1{
-  position: relative;left: 30px;
+  position: relative;
   float: left;
 }
 .hi{
